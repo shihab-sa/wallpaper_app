@@ -1,4 +1,13 @@
-<h1>Wallpaper App with React Native 🎉🎉</h1>
+<h1>Wallpaper App🎉🎉</h1>
+
+This app i make using <h1>React Native</h1> technology.
+
+<h3>Install👍👍</h3>
+
+Create expo App with Router 
+Reanimated
+Linear Gradients 
+Vetor icon 
 
 
 

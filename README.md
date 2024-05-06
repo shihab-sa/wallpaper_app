@@ -1,6 +1,6 @@
 <h1>Wallpaper App🎉🎉</h1>
 
-This app i make using<h1>React Native</h1>technology.
+- This app i make using React Native technology.
 
 <h3>Install👍👍</h3>
 
